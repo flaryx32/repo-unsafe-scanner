@@ -74,3 +74,7 @@ If you have any suggestions or feature requests, please open an issue or submit 
 ## Missing Anything?
 
 If you notice anything missing or incorrect, feel free to open an issue or submit a pull request.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=flaryx32/repo-unsafe-scanner&type=Date)](https://star-history.com/#flaryx32/repo-unsafe-scanner&Date)
